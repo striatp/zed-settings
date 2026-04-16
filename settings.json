@@ -1,0 +1,43 @@
+{
+	// Text settings
+	"buffer_font_size": 14,
+	"buffer_font_family": "JetBrains Mono",
+	"ui_font_family": ".SystemUIFont",
+	"ui_font_size": 15,
+
+	// Git settings
+	"git": {
+		"inline_blame": {
+			"enabled": false,
+		},
+	},
+
+	// Cursor, scrollbar and mouse settings
+	"vim_mode": true,
+	"current_line_highlight": "none",
+	"selection_highlight": false,
+	"gutter": {
+		"breakpoints": false,
+	},
+	"scrollbar": {
+		"git_diff": false,
+		"axes": {
+			"horizontal": true,
+		},
+	},
+
+	// Formatting settings
+	"format_on_save": "on",
+	"hard_tabs": true,
+	"tab_size": 4,
+
+	// AI and telemetry settings
+	"disable_ai": true,
+	"telemetry": {
+		"diagnostics": false,
+		"metrics": false,
+	},
+
+	// Other settings
+	"close_on_file_delete": true,
+}
